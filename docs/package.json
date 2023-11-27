@@ -56,7 +56,7 @@
     "ast-types": "^0.14.1",
     "autoprefixer": "^9.6.1",
     "autosuggest-highlight": "^3.1.1",
-    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-plugin-module-resolver": "^5.0.0",
     "babel-plugin-optimize-clsx": "^2.4.1",
     "babel-plugin-preval": "^2.0.0",
     "babel-plugin-react-remove-properties": "^0.3.0",
@@ -86,7 +86,7 @@
     "markdown-to-jsx": "^7.0.0",
     "marked": "^1.0.0",
     "material-ui-popup-state": "^1.4.1",
-    "next": "^9.5.0",
+    "next": "^10.2.0",
     "notistack": "^1.0.0",
     "nprogress": "^0.2.0",
     "postcss": "^8.0.6",
@@ -117,7 +117,7 @@
     "stylis-plugin-rtl": "^1.0.0",
     "stylis": "^3.5.4",
     "webfontloader": "^1.6.28",
-    "webpack": "^4.41.0",
+    "webpack": "^5.0.0",
     "webpack-bundle-analyzer": "^3.5.1"
   },
   "devDependencies": {
