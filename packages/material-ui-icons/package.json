@@ -49,7 +49,7 @@
     }
   },
   "dependencies": {
-    "@babel/runtime": "^7.4.4"
+    "@babel/runtime": "^7.26.10"
   },
   "devDependencies": {
     "fs-extra": "^9.0.0",
